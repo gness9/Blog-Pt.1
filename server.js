@@ -1,9 +1,9 @@
 //require('./src/database');
-require('./src/templates')
+require('./blog/src/templates')
 const http = require('http');
 const handleRequest = require('./src/handle-request');
 require('./src/database');
-require('./src/templates');
+//require('./src/templates');
 
 
 console.log("ERRR");

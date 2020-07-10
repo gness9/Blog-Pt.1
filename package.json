@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Glenn Ness",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0"
+  }
 }
